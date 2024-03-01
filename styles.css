@@ -1,9 +1,4 @@
 
-/* remove the first 300px and 370 px from the top and bottom of card */
-.card {
-  margin-top: 300px;
-  margin-bottom: 370px;
-}
 
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
