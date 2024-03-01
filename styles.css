@@ -1,0 +1,5 @@
+/* remove the first 300px and 370 px from the top and bottom of card */
+.card {
+  margin-top: 300px;
+  margin-bottom: 370px;
+}
