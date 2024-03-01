@@ -1,6 +1,3 @@
-body {
-  background-color: aqua;
-}
 
 /* remove the first 300px and 370 px from the top and bottom of card */
 .card {
@@ -41,4 +38,8 @@ body {
   -webkit-backface-visibility: hidden; /* Safari */
   backface-visibility: hidden;
 }
+
+.flip-card-back {
+    transform: rotateY(180deg);
+  }
 
